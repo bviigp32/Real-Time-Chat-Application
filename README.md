@@ -1,4 +1,3 @@
-```markdown
 # Real-Time Chat Application
 
 ## 개요

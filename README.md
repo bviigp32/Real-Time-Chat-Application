@@ -1,7 +1,3 @@
-프로젝트의 README 파일은 프로젝트의 개요, 설치 방법, 사용 방법 등을 포함한 중요한 문서입니다. 아래는 Node.js와 Express를 사용한 채팅 애플리케이션의 README 파일 예시입니다.
-
-### README.md
-
 ```markdown
 # Real-Time Chat Application
 
